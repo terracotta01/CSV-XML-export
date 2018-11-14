@@ -1,0 +1,19 @@
+form {
+  width: 20%;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.container{
+  width: 80%;
+  padding-top: 100px;
+}
+
+#sucess{
+
+  color: green;
+}
+
+#fail{
+  color:red;
+}
